@@ -1,10 +1,10 @@
 # [level 0] 팩토리얼 - 120848 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120848) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120848?language=cpp) 
 
 ### 성능 요약
 
-메모리: 75.3 MB, 시간: 6.81 ms
+메모리: 4.15 MB, 시간: 0.01 ms
 
 ### 구분
 
